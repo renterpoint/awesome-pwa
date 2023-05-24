@@ -33,6 +33,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [2brew](https://2brew.github.io/): PWA timer for coffee brewing
 * [2fA](https://2fa.crossphoton.tech): Extended 2FA
 * [abc.xyz](https://abc.xyz): Alphabet website
+* [Lamborghini Huracan Rental Dubai](https://renterpoint.com/car/76): Renter Point
 * [Air Horner](https://airhorner.com/): Air horn sound.
 * [AlarmDJ](https://alarmdj.com): Online alarm clock that plays MP3 files or YouTube videos.
 * [Aliexpress](https://m.aliexpress.com/?tracelog=wwwhome2mobilesitehome): Global shopping
